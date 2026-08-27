@@ -63,7 +63,7 @@ void main() {
     var man = result12 + 94 ;
     var result13 = man * hour ;
     System.out.println( " Если в компании работает " + man + " человек, то всего "+ result13 + " часов работы может быть поделено между сотрудниками. " );
-
+/
 
 
 }
